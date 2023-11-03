@@ -36,9 +36,7 @@ def setup_platform(
     """Set up the Awesome Light platform."""
     # Assign configuration variables.
     # The configuration check takes care they are present.
-    host = config[CONF_HOST]
-    username = config[CONF_USERNAME]
-    password = config.get(CONF_PASSWORD)
+
     url = config[CONF_URL]
 
     # Setup connection with devices/cloud
