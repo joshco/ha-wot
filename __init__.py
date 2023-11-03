@@ -1,0 +1,2 @@
+"""Example Lights integration."""
+

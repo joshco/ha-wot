@@ -1,0 +1,10 @@
+{
+  "domain": "wot",
+  "name": "W3C WoT",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com/joshco/ha-wot",
+  "iot_class": "local_polling",
+  "requirements": ["vo-wot==0.18.1"],
+  "version": "0.1.0"
+}
