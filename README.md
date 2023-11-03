@@ -2,6 +2,8 @@
 
 This integration allows devices conforming to W3C WoT to be integrated with Home Assistant
 
+> This integration is pre-alpha, using it in production is not-advised
+
 ### Installation
 
 Copy this folder to `<config_dir>/custom_components/wot/`.
